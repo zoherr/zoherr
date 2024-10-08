@@ -1,16 +1,37 @@
-## Hi there 👋
+## Hi there 👋, I'm Zoher R!
 
-<!--
-**zoherr/zoherr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **full-stack developer** with experience in **JavaScript**, **React**, **Node.js**, and growing expertise in **blockchain technologies**. I love building innovative solutions, contributing to open-source projects, and leading community-driven initiatives.
 
-Here are some ideas to get you started:
+### 💻 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend**: HTML, CSS, JavaScript, React.js, Next.js, Tailwind CSS
+- **Backend**: Node.js, Express, APIs, Middlewares, RESTful Services
+- **State Management**: Recoil, Context API
+- **Blockchain**: Solana
+- **Databases**: MongoDB
+- **DevOps**: Learning Docker, AWS, Nginx
+
+### 🚀 Current Focus
+I'm currently exploring **decentralized applications** and diving deeper into **blockchain development** while continuing to improve my **full-stack** capabilities with projects around **scalable web apps** and **DevOps** best practices.
+
+### 👨‍💻 Projects
+- **Coders's Corner**: 
+- **Hyper-Gigs**: 
+- **Gigs-Notes**: 
+
+### 🛠️ What I'm Learning
+- **Advanced Backend**: WebSockets, GRPC, Redis, Kafka, and system design principles.
+- **DevOps**: Docker, Kubernetes, and AWS.
+- **Blockchain**: Smart Contracts, Solidity, and decentralized applications.
+
+  
+### 🌱 Interests
+When I’m not coding, I love:
+- Participating in **Hackathons**
+- Sharing knowledge at community events
+- Exploring the latest in **blockchain** and **Web3** technologies
+
+### 📫 How to reach me:
+- **Insta**: []([https://github.com/YourUsername](https://www.instagram.com/zoher_r26/))
+- **LinkedIn**: [](https://www.linkedin.com/in/zoher-rangwala/)
+- **Email**: workforzoher@gmail.com
