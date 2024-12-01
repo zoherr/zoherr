@@ -28,7 +28,6 @@ I'm currently exploring **decentralized applications** and diving deeper into **
 ### 🌱 Interests
 When I’m not coding, I love:
 - Participating in **Hackathons**
-- Sharing knowledge at community events
 - Exploring the latest in **blockchain** and **Web3** technologies
 
 ### 📫 How to reach me:
