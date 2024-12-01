@@ -32,6 +32,6 @@ When I’m not coding, I love:
 - Exploring the latest in **blockchain** and **Web3** technologies
 
 ### 📫 How to reach me:
-- **Insta**: []([https://github.com/YourUsername](https://www.instagram.com/zoher_r26/))
-- **LinkedIn**: [](https://www.linkedin.com/in/zoher-rangwala/)
+- **Insta**: [Zoher_r26](https://www.instagram.com/zoher_r26/))
+- **LinkedIn**: [Zoher-rangwala](https://www.linkedin.com/in/zoher-rangwala/)
 - **Email**: workforzoher@gmail.com
