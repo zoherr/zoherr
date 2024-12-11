@@ -15,8 +15,7 @@ I'm a passionate **full-stack developer** with experience in **JavaScript**, **R
 I'm currently exploring **decentralized applications** and diving deeper into **blockchain development** while continuing to improve my **full-stack** capabilities with projects around **scalable web apps** and **DevOps** best practices.
 
 ### 👨‍💻 Projects
-- **Coders's Corner**: 
-- **Hyper-Gigs**: 
+- **Coders's Corner**:  
 - **Gigs-Notes**: 
 
 ### 🛠️ What I'm Learning
