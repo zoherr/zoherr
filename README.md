@@ -7,23 +7,14 @@ I'm a passionate **full-stack developer** with experience in **JavaScript**, **R
 - **Frontend**: HTML, CSS, JavaScript, React.js, Next.js, Tailwind CSS
 - **Backend**: Node.js, Express, APIs, Middlewares, RESTful Services
 - **State Management**: Recoil, Context API
-- **Blockchain**: Solana
+- **Blockchain**: Solana,Solidity
 - **Databases**: MongoDB
-- **DevOps**: Learning Docker, AWS, Nginx
+- **DevOps**: Docker, AWS, Nginx
 
 ### 🚀 Current Focus
 I'm currently exploring **decentralized applications** and diving deeper into **blockchain development** while continuing to improve my **full-stack** capabilities with projects around **scalable web apps** and **DevOps** best practices.
 
-### 👨‍💻 Projects
-- **Coders's Corner**:  
-- **Gigs-Notes**: 
 
-### 🛠️ What I'm Learning
-- **Advanced Backend**: WebSockets, GRPC, Redis, Kafka, and system design principles.
-- **DevOps**: Docker, Kubernetes, and AWS.
-- **Blockchain**: Smart Contracts, Solidity, and decentralized applications.
-
-  
 ### 🌱 Interests
 When I’m not coding, I love:
 - Participating in **Hackathons**
