@@ -7,8 +7,8 @@ I'm a passionate **full-stack developer** with experience in **JavaScript**, **R
 - **Frontend**: HTML, CSS, JavaScript, React.js, Next.js, Tailwind CSS
 - **Backend**: Node.js, Express, APIs, Middlewares, RESTful Services
 - **State Management**: Recoil, Context API
-- **Blockchain**: Solana,Solidity
-- **Databases**: MongoDB
+- **Blockchain**: Solana,Etherium
+- **Databases**: MongoDB, MySQL
 - **DevOps**: Docker, AWS, Nginx
 
 ### 🚀 Current Focus
